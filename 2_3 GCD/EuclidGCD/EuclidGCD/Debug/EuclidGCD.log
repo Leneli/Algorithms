@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\elenak\documents\git\algorithms\2_3 gcd\euclidgcd\euclidgcd\source.cpp(43): warning C4715: F: значение возвращается не при всех путях выполнения
+  EuclidGCD.vcxproj -> C:\Users\elenak\Documents\GIT\Algorithms\2_3 GCD\EuclidGCD\Debug\EuclidGCD.exe
+  EuclidGCD.vcxproj -> C:\Users\elenak\Documents\GIT\Algorithms\2_3 GCD\EuclidGCD\Debug\EuclidGCD.pdb (Full PDB)
