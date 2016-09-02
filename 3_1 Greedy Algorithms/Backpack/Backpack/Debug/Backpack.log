@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\elenak\documents\git\algorithms\3_1 greedy algorithms\backpack\backpack\source.cpp(49): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+  Backpack.vcxproj -> C:\Users\elenak\Documents\GIT\Algorithms\3_1 Greedy Algorithms\Backpack\Debug\Backpack.exe
+  Backpack.vcxproj -> C:\Users\elenak\Documents\GIT\Algorithms\3_1 Greedy Algorithms\Backpack\Debug\Backpack.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\elenak\documents\git\algorithms\3_1 greedy algorithms\components\components\source.cpp(39): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+  Components.vcxproj -> C:\Users\elenak\Documents\GIT\Algorithms\3_1 Greedy Algorithms\Components\Debug\Components.exe
+  Components.vcxproj -> C:\Users\elenak\Documents\GIT\Algorithms\3_1 Greedy Algorithms\Components\Debug\Components.pdb (Full PDB)
